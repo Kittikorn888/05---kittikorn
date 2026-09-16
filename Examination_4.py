@@ -7,11 +7,11 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 color = input("สัญญาณไฟจราจร:")
-    input("red")
+input("red")
 print("Stop")
-    input("yellow")
+input("yellow")
 print("Slow")
-    input("green")
+input("green")
 print("Go")
-    input("lnvalid")
+input("lnvalid")
 print("กรณีอื่นๆ")
