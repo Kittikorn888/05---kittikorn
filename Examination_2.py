@@ -6,5 +6,12 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-a = int(input())
-b = int(input())
+a = int(input("จำนวนที่ 1"))
+b = int(input("จำนวนที่ 2"))
+print("input("ผลบวกของสองจำนวน:"))
+int("input("ตัวเลข A "))
+int("input("ตัวเลข B "))
+input("หาก A > B")
+print("A is greater")
+input("หาก A <= B")
+print("B is greater or equal")
